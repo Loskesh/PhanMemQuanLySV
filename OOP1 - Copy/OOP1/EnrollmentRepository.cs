@@ -40,11 +40,23 @@ namespace OOP1
         }
 
         // Methods
-        protected override void LoadData()
+       protected override void LoadData()
+{
+    try
+    {
+        base.LoadData();
+        
+        // Kiểm tra null trước khi sử dụng
+        if (studentRepository == null || courseRepository == null)
         {
-            base.LoadData();
-            // Link up Student and Course references that were lost during deserialization
-            foreach (Enrollment enrollment in items)
+            Console.WriteLine("WARNING: studentRepository or courseRepository is null in EnrollmentRepository.LoadData()");
+            return;
+        }
+        
+        // Link up Student and Course references that were lost during deserialization
+        foreach (Enrollment enrollment in items)
+        {
+            try
             {
                 string[] parts = enrollment.ToStorageString().Split('|');
 
@@ -63,7 +75,18 @@ namespace OOP1
                     }
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error processing enrollment: {ex.Message}");
+            }
         }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error in EnrollmentRepository.LoadData: {ex.Message}");
+        items = new List<Enrollment>();
+    }
+}
 
         public Enrollment GetById(string id)
         {
