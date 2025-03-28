@@ -1,0 +1,31 @@
+﻿{
+  "$id": "1",
+  "$values": [
+    {
+      "$id": "2",
+      "LecturerId": "qwe",
+      "Department": "BIT",
+      "Position": "qwe",
+      "Specialization": "qwe",
+      "JoiningDate": "2025-03-26T03:08:54.9656508+07:00",
+      "Courses": {
+        "$id": "3",
+        "$values": []
+      },
+      "Id": "1d5e808e-0af2-423e-8153-ed16e547a094",
+      "FullName": "asd",
+      "DateOfBirth": "2025-03-26T03:08:55.0475817+07:00",
+      "Gender": "Male",
+      "Email": "asd@gmail.com",
+      "PhoneNumber": "asd",
+      "Address": {
+        "$id": "4",
+        "Street": "asd",
+        "District": "asd",
+        "City": "asd",
+        "ZipCode": "asd",
+        "Country": "Vi\u1EC7t Nam"
+      }
+    }
+  ]
+}

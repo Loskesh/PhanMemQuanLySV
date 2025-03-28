@@ -1,0 +1,62 @@
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.MainForm.resources
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP1\OOP1\bin\Debug\net8.0-windows\OOP1.exe
+C:\Users\Admin\source\repos\OOP1\OOP1\bin\Debug\net8.0-windows\OOP1.deps.json
+C:\Users\Admin\source\repos\OOP1\OOP1\bin\Debug\net8.0-windows\OOP1.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP1\OOP1\bin\Debug\net8.0-windows\OOP1.dll
+C:\Users\Admin\source\repos\OOP1\OOP1\bin\Debug\net8.0-windows\OOP1.pdb
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.dll
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\refint\OOP1.dll
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.pdb
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\ref\OOP1.dll
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.CourseForm.resources
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.DepartmentForm.resources
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.EnrollmentForm.resources
+C:\Users\Admin\source\repos\OOP1\OOP1\obj\Debug\net8.0-windows\OOP1.StudentForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.CourseForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.DepartmentForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.EnrollmentForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.LecturerForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.MainForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.StudentForm.resources
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.dll
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\refint\OOP1.dll
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.pdb
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.exe
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.deps.json
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.dll
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.pdb
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\ref\OOP1.dll
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.exe
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.deps.json
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.runtimeconfig.json
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.dll
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\OOP1.pdb
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.CourseForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.DepartmentForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.EnrollmentForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.LecturerForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.MainForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.StudentForm.resources
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.AssemblyInfo.cs
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.dll
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\refint\OOP1.dll
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.pdb
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\OOP1.genruntimeconfig.cache
+C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\obj\Debug\net8.0-windows\ref\OOP1.dll

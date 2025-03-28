@@ -1,0 +1,21 @@
+﻿{
+  "$id": "1",
+  "$values": [
+    {
+      "$id": "2",
+      "Id": "bc5120dc-24a4-4158-9b42-f14b1f0972e2",
+      "Name": "Business Information Tech",
+      "ShortName": "BIT",
+      "Description": "asd",
+      "Location": "UEH B2",
+      "Lecturers": {
+        "$id": "3",
+        "$values": []
+      },
+      "Students": {
+        "$id": "4",
+        "$values": []
+      }
+    }
+  ]
+}

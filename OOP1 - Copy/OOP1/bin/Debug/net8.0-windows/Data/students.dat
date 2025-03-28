@@ -1,0 +1,31 @@
+﻿{
+  "$id": "1",
+  "$values": [
+    {
+      "$id": "2",
+      "StudentId": "123",
+      "ClassName": "se\u0060",
+      "Major": "se",
+      "Intake": 2023,
+      "State": "Active",
+      "Enrollments": {
+        "$id": "3",
+        "$values": []
+      },
+      "Id": "5cdd526f-d826-4e64-b6ca-062b59a58d26",
+      "FullName": "ho\u00E0ng",
+      "DateOfBirth": "2025-03-28T13:43:01.1650394+07:00",
+      "Gender": "Male",
+      "Email": "hoang@gmail.com",
+      "PhoneNumber": "123",
+      "Address": {
+        "$id": "4",
+        "Street": "bvt",
+        "District": "tb",
+        "City": "hcm",
+        "ZipCode": "0000000",
+        "Country": "Vi\u1EC7t Nam"
+      }
+    }
+  ]
+}

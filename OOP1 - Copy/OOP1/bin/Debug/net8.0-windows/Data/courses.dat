@@ -1,0 +1,37 @@
+﻿{
+  "$id": "1",
+  "$values": [
+    {
+      "$id": "2",
+      "Id": "af5833b3-6161-497f-8e79-e2bfd6d14cea",
+      "Name": "Khoa H\u1ECDc D\u1EEF Li\u1EC7u",
+      "Code": "KHDL-01",
+      "Credits": 3,
+      "Description": "",
+      "Department": {
+        "$id": "3",
+        "Id": "bc5120dc-24a4-4158-9b42-f14b1f0972e2",
+        "Name": "Business Information Tech",
+        "ShortName": "BIT",
+        "Description": "",
+        "Location": "UEH B2",
+        "Lecturers": {
+          "$id": "4",
+          "$values": []
+        },
+        "Students": {
+          "$id": "5",
+          "$values": []
+        }
+      },
+      "Lecturers": {
+        "$id": "6",
+        "$values": []
+      },
+      "Enrollments": {
+        "$id": "7",
+        "$values": []
+      }
+    }
+  ]
+}

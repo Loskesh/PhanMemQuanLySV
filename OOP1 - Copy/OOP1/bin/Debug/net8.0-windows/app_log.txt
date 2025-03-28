@@ -1,0 +1,53 @@
+=== Application started at 3/28/2025 1:43:31 PM ===
+Base directory: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\
+Starting application
+Data Path: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data
+Loading data for Student from students.dat
+Deserializing from file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\students.dat
+Successfully deserialized data from C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\students.dat
+Loaded 1 items for Student
+Deserializing from file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\courses.dat
+Successfully deserialized data from C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\courses.dat
+Data loaded successfully from courses.dat
+Deserializing from file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\departments.dat
+Successfully deserialized data from C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\departments.dat
+Data loaded successfully from departments.dat
+Deserializing from file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\lecturers.dat
+Successfully deserialized data from C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\lecturers.dat
+Data loaded successfully from lecturers.dat
+Deserializing from file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\enrollments.dat
+Successfully deserialized data from C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\enrollments.dat
+Data loaded successfully from enrollments.dat
+Checking data directory: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data
+Data directory is valid and writable
+Found 5 data files:
+- courses.dat (814 bytes, last modified: 3/28/2025 1:43:28 PM)
+- departments.dat (408 bytes, last modified: 3/28/2025 1:43:28 PM)
+- enrollments.dat (39 bytes, last modified: 3/28/2025 1:43:28 PM)
+- lecturers.dat (739 bytes, last modified: 3/28/2025 1:43:28 PM)
+- students.dat (712 bytes, last modified: 3/28/2025 1:43:28 PM)
+Calculating GPA...
+No enrollments found for GPA calculation
+Application closing - saving all data
+Saving 1 items for Student to students.dat
+Serializing to file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\students.dat
+Successfully serialized data to C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\students.dat
+Successfully saved data for Student
+Saving 1 items for Course to courses.dat
+Serializing to file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\courses.dat
+Successfully serialized data to C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\courses.dat
+Successfully saved data for Course
+Saving 1 items for Department to departments.dat
+Serializing to file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\departments.dat
+Successfully serialized data to C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\departments.dat
+Successfully saved data for Department
+Saving 0 items for Enrollment to enrollments.dat
+Serializing to file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\enrollments.dat
+Successfully serialized data to C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\enrollments.dat
+Successfully saved data for Enrollment
+Saving 1 items for Lecturer to lecturers.dat
+Serializing to file: C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\lecturers.dat
+Successfully serialized data to C:\Users\HP\Downloads\OOP1 - Copy-20250328T062610Z-001\OOP1 - Copy\OOP1\bin\Debug\net8.0-windows\Data\lecturers.dat
+Successfully saved data for Lecturer
+All data saved successfully
+Application terminated
